@@ -1,2 +1,2 @@
-# Gossip-Cipher
+# Gossip
 Encrypted Message App
